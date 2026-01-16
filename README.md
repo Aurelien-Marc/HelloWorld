@@ -1,8 +1,4 @@
-# HelloWorld
-Modifying the read me file
-
-adding some lines
+Total refonte du read me 
 
 
-Ok now i can modify it
-
+Pas les meme lignes et tout plein de modifs
