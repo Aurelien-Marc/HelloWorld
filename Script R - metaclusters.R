@@ -6,4 +6,8 @@ metaclusters = function(x){
 }
 
 
+# ajout de la fonction 1
+fct1 = function(y){
+  print('ceci est la fonction 1')
+}
 
